@@ -7,3 +7,5 @@ just one of my test scripts to use Wikipedia APIs
 ```
 (cd cmd && go build -o ../millenium) && ./millenium
 ```
+
+年表に画像を追加していく予定。全く終わりが見えず、未定。
